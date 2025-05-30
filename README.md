@@ -47,5 +47,5 @@ The dataset used is a public Netflix dataset containing information on titles av
 
 - Tableau (Dashboard development & visualization)
 
-![Dashboard](carbon_footprint.png)
+![Dashboard](Netflix Insight Dashboard.png)
 
