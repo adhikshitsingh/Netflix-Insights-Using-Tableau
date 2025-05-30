@@ -47,6 +47,8 @@ The dataset used is a public Netflix dataset containing information on titles av
 
 - Tableau (Dashboard development & visualization)
 
+  
+
 
 <img width="953" alt="Netflix Insight Dashboard" src="https://github.com/user-attachments/assets/39cd0fac-d7ed-4726-8c95-c463ddcad5f7" />
 
